@@ -1,0 +1,20 @@
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\bin\Debug\Prisma hexagonal  Area y Volumen.exe.config
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\bin\Debug\Prisma hexagonal  Area y Volumen.exe
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\bin\Debug\Prisma hexagonal  Area y Volumen.pdb
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\bin\Debug\Prisma hexagonal  Area y Volumen.xml
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma_hexagonal__Area_y_Volumen.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma_hexagonal__Area_y_Volumen.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma hexagonal  Area y Volumen.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma hexagonal  Area y Volumen.exe
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma hexagonal  Area y Volumen.xml
+D:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma hexagonal  Area y Volumen.pdb
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\bin\Debug\Prisma hexagonal  Area y Volumen.exe.config
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma hexagonal  Area y Volumen.exe
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma hexagonal  Area y Volumen.xml
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma hexagonal  Area y Volumen.pdb
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\bin\Debug\Prisma hexagonal  Area y Volumen.exe
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\bin\Debug\Prisma hexagonal  Area y Volumen.pdb
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\bin\Debug\Prisma hexagonal  Area y Volumen.xml
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma_hexagonal__Area_y_Volumen.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma_hexagonal__Area_y_Volumen.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2014\Visual Basic\Prisma hexagonal  Area y Volumen\Prisma hexagonal  Area y Volumen\obj\Debug\Prisma hexagonal  Area y Volumen.vbproj.GenerateResource.Cache
